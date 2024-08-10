@@ -1,4 +1,4 @@
-//0816061
+//Writer:      YiHsiu
 //Subject:     CO project 2 - Instruction Memory
 //--------------------------------------------------------------------------------
 //Version:     1
