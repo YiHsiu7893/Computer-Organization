@@ -1,5 +1,5 @@
 `timescale 1ns/1ps
-// 110550136
+// YiHsiu
 module alu(
     /* input */
     clk,            // system clock
