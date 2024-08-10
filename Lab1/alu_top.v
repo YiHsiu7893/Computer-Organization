@@ -1,5 +1,5 @@
 `timescale 1ns/1ps
-// 110550136
+// YiHsiu
 module alu_top(
     /* input */
     src1,       //1 bit, source 1 (A)
