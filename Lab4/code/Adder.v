@@ -1,4 +1,4 @@
-//Writer:      110550136
+//Writer:      YiHsiu
 //----------------------------------------------
 //Subject:     CO project 4 - Adder
 //--------------------------------------------------------------------------------
@@ -65,11 +65,4 @@ output result,cout;
 
 assign result = a ^ b ^ cin;
 assign cout = (a & b) | (a & cin) | (b & cin);
-endmodule
-
-
-
-
-
-                    
-                    
+endmodule                              
