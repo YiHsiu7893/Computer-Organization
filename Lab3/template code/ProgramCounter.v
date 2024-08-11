@@ -36,9 +36,4 @@ always @(posedge clk_i) begin
 	    pc_out_o <= pc_in_i;
 end
 
-endmodule
-
-
-
-                    
-                    
+endmodule                 
