@@ -5,3 +5,4 @@
 - Lab2 - Single Cycle CPU - Simple Edition
 - Lab3 - Single Cycle CPU - Complete Edition
 - Lab4 - Pipelined CPU
+- Lab5 - Advanced Pipelined CPU
