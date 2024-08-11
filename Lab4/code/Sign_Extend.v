@@ -1,4 +1,4 @@
-//Writer:      110550136     
+//Writer:      YiHsiu     
 //----------------------------------------------
 //Subject:     CO project 4 - Sign extend
 //--------------------------------------------------------------------------------
@@ -25,5 +25,4 @@ always@(*) begin
 	for(i=16; i<32; i=i+1)
 		data_o[i] = data_i[15];
 end          
-endmodule      
-     
+endmodule       
