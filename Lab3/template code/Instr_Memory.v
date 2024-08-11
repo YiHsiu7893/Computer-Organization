@@ -39,11 +39,4 @@ initial begin
     $readmemb("CO_P3_test_data2.txt", Instr_Mem);  //Read instruction from "CO_P3_test_data1.txt"   
 		
 end
-endmodule
-
-
-
-
-
-                    
-                    
+endmodule                    
