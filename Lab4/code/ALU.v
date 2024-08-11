@@ -1,4 +1,4 @@
-//Writer:      110550136 
+//Writer:      YiHsiu 
 //----------------------------------------------
 //Subject:     CO project 4 - ALU
 //--------------------------------------------------------------------------------
@@ -41,11 +41,4 @@ always@(ctrl_i, src1_i, src2_i) begin
         default: result_o <= 0;
      endcase
 end 
-endmodule
-
-
-
-
-
-                    
-                    
+endmodule                                  
